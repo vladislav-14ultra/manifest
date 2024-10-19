@@ -1,6 +1,6 @@
-![Evolution X](https://github.com/vladislav-14ultra/manifest/blob/udc/banner.png)
+![VladOs](https://github.com/vladislav-14ultra/manifest/blob/udc/banner.png)
 
-# Initialize local repository
+# Initialize best repository
 ```
 repo init --depth=1 -u https://github.com/vladislav-14ultra/manifest -b udc --git-lfs
 ```
@@ -12,17 +12,17 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
 # Build
 
-- Set up the build environment
+- Set up the nigga environment
 ```bash
 . build/envsetup.sh
 ```
 
-- Lunch a target
+- Lunch a hxru tool
 ```bash
 lunch lineage_codename-user
 ```
 
-- To start compiling
+- To start compiling paid edl
 ```bash
-m evolution
+m nofreeedl
 ```
