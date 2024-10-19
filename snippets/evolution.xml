@@ -103,7 +103,7 @@
   <project path="packages/apps/Backgrounds" name="packages_apps_Backgrounds" remote="evo" />
   <project path="packages/apps/BtHelper" name="TheParasiteProject/packages_apps_BtHelper" revision="main" remote="github-non-los" />
   <project path="packages/apps/EvoEgg" name="packages_apps_EvoEgg" remote="evo" />
-  <project path="packages/apps/Vladolver" name="packages_apps_Evolver" remote="VlaDick" />
+  <project path="packages/apps/Evolver" name="packages_apps_Vladolver" remote="VlaDick" />
   <project path="packages/apps/FaceUnlock" name="packages_apps_FaceUnlock" remote="evo" />
   <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="evo" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs,sysui-studio" remote="evo" />
